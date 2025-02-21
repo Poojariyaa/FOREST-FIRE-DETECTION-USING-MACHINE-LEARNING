@@ -37,7 +37,7 @@ IDE: Use of VSCode as the Integrated Development Environment for coding, debuggi
 
 Additional Dependencies: Includes TensorFlow (version 2.4.1), OpenCV, and Seaborn for data analysis and visualization.
 
-System Architecture
+## System Architecture
 
 
 
