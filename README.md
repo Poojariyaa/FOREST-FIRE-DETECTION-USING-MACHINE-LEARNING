@@ -43,13 +43,10 @@ System Architecture
 
 ## Output
 
-Output1 - Forest Fire Risk Heatmap
+### Output1 - 
+![Result1](https://github.com/user-attachments/assets/5578ee29-8dca-4947-ba50-696420758aee)
 
-Output2 - Predicted Fire Probability Based on Environmental Factors
-
-Prediction Accuracy
-
-94.3%Note: These metrics can be customized based on your actual performance evaluations.
+94.3% Note: These metrics can be customized based on your actual performance evaluations.
 
 ## Results and Impact
 
