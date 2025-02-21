@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 10 18:51:03 2020
-
-@author: zhijuanzhang
-"""
-
 from PIL import Image
 import os
 import numpy as np
